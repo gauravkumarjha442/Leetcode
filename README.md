@@ -1,7 +1,5 @@
 # LeetCode
 
-Author: [github.com/lzl124631x](https://github.com/lzl124631x)
-
 My C++ Code for LeetCode OJ.
 
 Please give this repo a :star: if it inspires you. Thanks. :blush:
